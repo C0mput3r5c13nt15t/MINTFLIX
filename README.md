@@ -15,7 +15,7 @@ The app consists of a user management as well as three models namely articles, v
 All the content is displayed on a NETFLIX inspired dashboard to allow for an intuitive usage of the platform. With  the colors we kept to the MINTvernetzt color palette.
 
 ## Final thoughts
-It's not over yet, so we can't give any conclusion!
+We might not have won the contest but we have definetly leared a lot. It was also the first time using Blitzjs and Tailwind. Overall a really great experience!
 
 &#35;MINT &#35;MINTathon &#35;CMS &#35;MINTFLIX
 
